@@ -1,0 +1,7 @@
+FlightId,FlightNumber,DepartureAirport,DepartureDate,DepartureTime,ArrivalAirport,ArrivalTime
+456,A1-49,Newark Liberty,2013-12-21,18:05,San Francisco,21:10
+457,A1-49,Newark Liberty,2014-04-05,18:05,San Francisco,21:10
+458,A1-49,Newark Liberty,2014-04-12,18:05,San Francisco,21:10
+460,A2-53,San Francisco,2013-12-22,15:30,Newark Liberty,23:35
+461,A2-53,San Francisco,2014-06-28,15:30,Newark Liberty,23:35
+462,A2-53,San Francisco,2014-07-06,16:00,Newark Liberty,00:05 (+1d)
